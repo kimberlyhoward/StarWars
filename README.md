@@ -5,5 +5,5 @@
 
 Technologies Used: Bootstap, HTML, Express, Path, Body-Parser.
 
-![App Page](star-wallpapers-3.jpg)
+![App Page](screenShot.PNG)
 
